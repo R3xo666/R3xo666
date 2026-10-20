@@ -4,7 +4,10 @@
 class Developer:
     def __init__(self):
         self.name = "Aditya Kumar"
+        self.handle = "R3xo666"
         self.role = "Python & Autonomous AI Systems Developer"
+        self.mindset = "Vibe Coder & Relentless Learner 🚀"
+        self.website = "https://r3xo666.github.io"
         self.interests = ["Autonomous Agents", "Data Engineering", "Web Scraping", "CLI Tools"]
         self.languages = ["Python", "JavaScript", "Bash", "Dart"]
         self.os = ["Fedora Linux", "Wayland / KDE"]
@@ -12,6 +15,13 @@ class Developer:
     def current_focus(self):
         return "Building production-grade data pipelines & agentic automations"
 ```
+
+<p align="left">
+  <a href="https://r3xo666.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-r3xo666.github.io-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
