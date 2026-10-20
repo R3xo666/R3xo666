@@ -30,6 +30,7 @@ class Developer:
 
 ### 🚀 Featured Repositories
 
+- 📈 **[Crypto Telegram Threshold Monitor](https://github.com/R3xo666/crypto-telegram-threshold-monitor)** — Lightweight 24/7 background monitor for crypto/asset price thresholds with instant Telegram alerts, hysteresis anti-spam cooldown, and public REST feeds.
 - 🧾 **[Batch Invoice PDF Extractor](https://github.com/R3xo666/batch-invoice-pdf-extractor)** — Production-grade CLI pipeline to batch extract financial metadata from heterogeneous PDF invoices into styled multi-sheet Excel workbooks with formula injection defense (OWASP CWE-1236) and audit logs.
 - 📚 **[Bookstore Catalog Scraper](https://github.com/R3xo666/bookstore-catalog-scraper)** — Production-grade, config-driven e-commerce catalog scraper and normalizer with Rich CLI interface and dual CSV/Excel export.
 - ⚡ **[Titan Downloader](https://github.com/R3xo666/Titan-Downloader)** — Fast, robust media downloading engine and automation tool.
